@@ -1,4 +1,4 @@
-### Javascript project
+### Javascript Project
 
 This is my first repo.
 This is  about [**Linear Programming**](https://en.wikipedia.org/wiki/Linear_programming) Problem.
